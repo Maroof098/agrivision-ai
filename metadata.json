@@ -1,0 +1,6 @@
+{
+  "name": "AgriVision AI",
+  "description": "An AI-powered agriculture platform that provides crop disease detection, weather advisory, fertilizer recommendation, and smart farming assistance.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
